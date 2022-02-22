@@ -38,6 +38,14 @@
     background-color: #525252;
 }
 
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+
 /* ----------------------------------------Special paddings/margins/text */
 
 h1,
@@ -163,6 +171,9 @@ header {
     font-size: 14px;
     font-weight: 300;
     letter-spacing: 2px;
+}
+div#map {
+    min-height: 360px;
 }
 
 /*--------------------------------------------Hover.css*/
