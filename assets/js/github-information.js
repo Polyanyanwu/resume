@@ -1,4 +1,6 @@
 
+$(document).ready(fetchGitHubInformation);
+
 function userInformationHTML(user) {
     return `
         <h2>${user.name}
